@@ -6,7 +6,7 @@
     <body>
 <div>
     <h1> LAB SECTION</h1>
-    <a href= "/labs/1">Lab 1</a>
+    <a href= "/labs/1/portfolio">Lab 1</a>
 </div>
     </body>
 </html>
